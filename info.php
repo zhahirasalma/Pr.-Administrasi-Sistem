@@ -1,4 +1,4 @@
 <?php
 
-phpinfo();
+phpinfo(); // ini info
 ?>
